@@ -191,15 +191,12 @@
 #mainContent .homeImg{
     position: relative;
     overflow: visible;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 760px;
 }
 
-#mainContent .homeImg div{
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;
-    height: 760px;
-    position: relative;
-}
 
 #mainContent .homeImg .text{
     margin: 0;
