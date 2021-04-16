@@ -9,9 +9,17 @@ export default class technicalWriting extends Component {
       return (
         <section id = "mainContent">
             <div className = "mainContent">
-                <div className="all-page-container">
+                {/*<div className="all-page-container">
                     <AllPagesPDFViewer pdf={FinalReport} />
-                </div>
+      </div>*/}
+              <div className = "resume">
+                <embed
+                  src={FinalReport}
+                  type="application/pdf"
+                  height={800}
+                  width={1000}
+                />
+              </div>
             </div>
         </section>
         

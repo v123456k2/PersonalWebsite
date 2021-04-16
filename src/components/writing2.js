@@ -9,9 +9,17 @@ export default class writing2 extends Component {
       return (
         <section id = "mainContent">
             <div className = "mainContent">
-                <div className="all-page-container">
-                    <AllPagesPDFViewer pdf={PersonalStatement} />
-                </div>
+              <div className = "resume">
+                <embed
+                  src={PersonalStatement}
+                  type="application/pdf"
+                  height={800}
+                  width={1000}
+                />
+              </div>
+                {/*<div className="all-page-container">*/}
+                    {/*<AllPagesPDFViewer pdf={PersonalStatement} />*/}
+                {/*</div>*/}
             </div>
         </section>
         
