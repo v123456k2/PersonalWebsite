@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PersonalWebsite/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/PersonalWebsite/static/js/main.2e4fc55c.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.2e4fc55c.chunk.js.map",
+    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.80eebfa6.js",
+    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.80eebfa6.js.map",
+    "static/js/2.4f49a384.chunk.js": "/PersonalWebsite/static/js/2.4f49a384.chunk.js",
+    "static/js/2.4f49a384.chunk.js.map": "/PersonalWebsite/static/js/2.4f49a384.chunk.js.map",
+    "static/js/3.d5500a34.chunk.js": "/PersonalWebsite/static/js/3.d5500a34.chunk.js",
+    "static/js/3.d5500a34.chunk.js.map": "/PersonalWebsite/static/js/3.d5500a34.chunk.js.map",
+    "index.html": "/PersonalWebsite/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/PersonalWebsite/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4f49a384.chunk.js.LICENSE.txt": "/PersonalWebsite/static/js/2.4f49a384.chunk.js.LICENSE.txt",
+    "static/media/FinalReport.d0531f3e.pdf": "/PersonalWebsite/static/media/FinalReport.d0531f3e.pdf",
+    "static/media/PersonalStatement.c0d34642.pdf": "/PersonalWebsite/static/media/PersonalStatement.c0d34642.pdf",
+    "static/media/ProjectSummary.ec270229.pdf": "/PersonalWebsite/static/media/ProjectSummary.ec270229.pdf",
+    "static/media/ProposalPresentation.3d59f89f.pdf": "/PersonalWebsite/static/media/ProposalPresentation.3d59f89f.pdf",
+    "static/media/ResumeFinal.e33d898b.pdf": "/PersonalWebsite/static/media/ResumeFinal.e33d898b.pdf",
+    "static/media/home2.454cd859.png": "/PersonalWebsite/static/media/home2.454cd859.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80eebfa6.js",
+    "static/js/2.4f49a384.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2e4fc55c.chunk.js"
+  ]
+}
