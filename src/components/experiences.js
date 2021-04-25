@@ -4,10 +4,6 @@ export default class Experiences extends Component {
     render() {
       return (
         <section id = "mainContent">
-            <div className = "mainContent">
-            <img
-                    style={{ backgroundImage: `url(/PersonalWebsite/images/home.png)` }}
-                  />
               <h1>Trulight Project</h1>
                 <p>
                 Trulight Project is a non-profit start-up dedicated with a mission to protect, all. It is developing 
@@ -95,7 +91,6 @@ export default class Experiences extends Component {
                     Conducted precision tests for finished auto parts with caliper and height gauge.
                   </li>
                 </ul>
-            </div>
             
         </section>
         
