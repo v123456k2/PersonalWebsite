@@ -15,7 +15,7 @@ const Sidebar = () => {
     <div>
         <section id ="sidebar">
             <div className = "sidebar">
-              <div className = "author-img" style ={{backgroundImage: 'PersonalWebsite/images/about.jpg'}} />
+              <div className = "author-img" style ={{backgroundImage: 'url(/PersonalWebsite/images/about.jpg)'}} />
               <h1 className = "name"> Vincent Chow </h1>
               <span className="mail"><i className="fa fa-envelope"></i> v123456k212561256@gmail.com</span>
               <span className="phone"><i className="fa fa-phone"></i> +1 724-328-2719</span>
