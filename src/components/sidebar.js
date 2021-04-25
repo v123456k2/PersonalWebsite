@@ -38,23 +38,23 @@ const Sidebar = () => {
                     <li className={splitLocation[2] === "education" ? "active" : ""}>
                         <Link to="/PersonalWebsite/education">Education</Link>
                     </li>
-                    <li className={splitLocation[2] === "experiences" ? "active" : ""}>
-                        <Link to="/PersonalWebsite/experiences">Experiences</Link>
+                    <li className={splitLocation[2] === "experience" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/experiences">Experience</Link>
                     </li>
                     <li className={splitLocation[2] === "project" ? "active" : ""}>
                         <Link to="/PersonalWebsite/project">Project</Link>
                     </li>
                     <li className={splitLocation[2] === "courses" ? "active" : ""}>
-                        <Link to="/PersonalWebsite/courses">Course Works</Link>
+                        <Link to="/PersonalWebsite/courses">Coursework</Link>
                     </li>
                     <li className={splitLocation[2] === "technicalWriting" ? "active" : ""}>
                         <Link to="/PersonalWebsite/technicalWriting">Technical Writing Sample</Link>
                     </li>
                     <li className={splitLocation[2] === "writing1" ? "active" : ""}>
-                        <Link to="/PersonalWebsite/writing1">Writing Samples 1</Link>
+                        <Link to="/PersonalWebsite/writing1">Writing Sample 1</Link>
                     </li>
                     <li className={splitLocation[2] === "writing2" ? "active" : ""}>
-                        <Link to="/PersonalWebsite/writing2">Writing Samples 2</Link>
+                        <Link to="/PersonalWebsite/writing2">Writing Sample 2</Link>
                     </li>
                     <li className={splitLocation[2] === "presentation" ? "active" : ""}>
                         <Link to="/PersonalWebsite/presentation">Presentation Sample</Link>
