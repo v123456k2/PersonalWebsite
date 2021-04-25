@@ -12,7 +12,9 @@ export default class Education extends Component {
             <h5>Bachelor of Science in Computer Engineering, minor in Computer Science</h5>
             <h5>GPA 4.00</h5>
             <h5>Expected Graduation, May 2022</h5>
+            <img className = "aboutImg" src = '/PersonalWebsite/images/GT.png'></img>
           </div>
+          
         </section>
         
       )

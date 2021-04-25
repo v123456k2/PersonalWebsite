@@ -28,6 +28,7 @@ export default class Experiences extends Component {
                 <p>
                 Currently, Trulight is partnering with Ayonix to provide drones and cameras for live data feed and face recognition to compare it to the FBI watchlist to further enhance the safety of the society.
                 </p>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/trulight.png'></img>
                 <br/>
 
                 <h1>Lucid-Décor </h1>

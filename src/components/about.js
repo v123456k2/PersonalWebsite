@@ -23,6 +23,7 @@ export default class About extends Component {
                 <h1>Who am I?</h1>
                 <p>My name is Vincent Chow and I am a third-year undergraduate student at Georgia Institute of Technology majoring in Computer Engineering and minoring in Computer Science.
                 </p>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/whoAmI.jpeg'></img>
                 <br/>
 
                 <h1>Where I'm from</h1>
@@ -33,6 +34,9 @@ export default class About extends Component {
                 <h1>My Family</h1>
                 <p>My family has four members: me, who is the youngest, my older sister who graduated from Emory University and is currently working, my dad who is currently in Shanghai providing for the family, and my mom who takes care of everything in the family.   
                 </p>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/family2.jpeg'></img>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/family.jpeg'></img>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/family1.jpeg'></img>
                 <br/>
 
                 <h1>My Interests</h1>
@@ -41,9 +45,15 @@ export default class About extends Component {
                 <p>
                 I love mountain climbing and biking. I really enjoy these activities especially when I’m with my family. Imagine riding a bike next to the seashore with the wind breezing at you, or climbing the mountain breathing in fresh air and listening to bird chirps. Doesn’t this sound amazing? I like to step into the nature away from the hustle and bustle of big cities, allowing myself to feel calm and peace. 
                 </p>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/biking.jpeg'></img>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/beach.jpeg'></img>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/hiking.jpeg'></img>
                 <p>
                 I love to travel. I grew up traveling and fell in love with it. I don’t just travel to travel. I try to make the most of my trips. I especially enjoy seeing the different cultures, understanding their histories, and of course meeting new people.
                 </p>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/travel.jpeg'></img>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/travel2.jpeg'></img>
+                <img className = "aboutImg" src = '/PersonalWebsite/images/travel3.jpeg'></img>
                 <br/>
 
                 <h1>My Personality</h1>
