@@ -8,7 +8,6 @@ export default class presentation extends Component {
     render() {
       return (
         <section id = "mainContent">
-            <div className = "mainContent">
             <div className = "resume">
                 <embed
                   src={Presentation}
@@ -20,7 +19,6 @@ export default class presentation extends Component {
                 {/*<div className="all-page-container">
                     <AllPagesPDFViewer pdf={Presentation} />
       </div>*/}
-            </div>
         </section>
         
       )
