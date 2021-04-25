@@ -23,10 +23,10 @@ const Sidebar = () => {
               <span className="phone"><i className="fa fa-phone"></i> +1 724-328-2719</span>
               <nav className = "menuList">
                 <ul>
-                    <li className={splitLocation[2] === "" ? "active" : ""}>
+                    <li className={splitLocation[2] === "" ? "active" : splitLocation[3] === "" ? "active" : ""}>
                         <Link to='/PersonalWebsite/'>Home</Link>
                     </li>
-                    <li className={splitLocation[2] === "about" ? "active" : ""}>
+                    <li className={splitLocation[2] === "about" ? "active" : splitLocation[3] === "about" ? "active" : ""}>
                         <Link to='/PersonalWebsite/about'>About</Link>
                     </li>
                     <li className={splitLocation[2] === "goal" ? "active" : ""}>

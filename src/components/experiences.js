@@ -86,11 +86,11 @@ export default class Experiences extends Component {
                     Delivered a presentation to the production team on overall equipment effectiveness (OEE) 
                     calculation and maximizing human-computer interaction, increasing productivity by 20%. 
                   </li>
-                  <l1>
+                  <li>
                     Implemented a more efficient way to cut the materials on Alex Tech-VT08 CNC and Tsugami B0326-II 
                     CNC using G-Code after taking into consideration of the metal shape and knives, increasing profit by 
                     30% and reducing cutting time by 30%. 
-                  </l1>
+                  </li>
                   <li>
                     Conducted precision tests for finished auto parts with caliper and height gauge.
                   </li>
