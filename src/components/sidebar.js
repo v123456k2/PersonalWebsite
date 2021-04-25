@@ -38,7 +38,7 @@ const Sidebar = () => {
                     <li className={splitLocation[2] === "education" ? "active" : ""}>
                         <Link to="/PersonalWebsite/education">Education</Link>
                     </li>
-                    <li className={splitLocation[2] === "experience" ? "active" : ""}>
+                    <li className={splitLocation[2] === "experiences" ? "active" : ""}>
                         <Link to="/PersonalWebsite/experiences">Experience</Link>
                     </li>
                     <li className={splitLocation[2] === "project" ? "active" : ""}>
