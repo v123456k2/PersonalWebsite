@@ -259,9 +259,14 @@
 }
 
 .aboutImg{
-    margin-bottom: 10px;
 
     width: 30%;
+}
+
+.aboutImg2{
+    margin-bottom: 10px;
+
+    width: 80%;
 }
 
 #mainContent h3{
