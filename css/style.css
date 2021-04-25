@@ -182,20 +182,12 @@
 /* Home               */
 /*------------------- */
 
-#mainContent .home{
-    margin-left: 10px;
-    width: 98%;
-    height: 100%;
-}
-
 #mainContent .homeImg{
     position: relative;
     overflow: visible;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    top: 72%;
-    left: 4%;
     height: 760px;
 }
 
