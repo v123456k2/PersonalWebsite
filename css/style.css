@@ -258,6 +258,12 @@
     width: 37%;
 }
 
+.aboutImg{
+    margin-bottom: 10px;
+
+    width: 30%;
+}
+
 #mainContent h3{
     margin: 0 0 20px 0;
     font-size: 20px;
