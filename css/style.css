@@ -142,6 +142,12 @@
     float: right;
 }
 
+#mainContent .mainContent{
+    width: calc(100% - 350px);
+    height: 100%;
+    float: right;
+}
+
 /* ------------------ */
 /* pdf               */
 /*------------------- */
@@ -183,6 +189,8 @@
 /*------------------- */
 
 #mainContent .homeImg{
+    width: calc(100% - 350px);
+    float: right;
     position: relative;
     overflow: visible;
     background-size: cover;
