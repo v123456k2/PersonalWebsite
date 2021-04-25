@@ -8,7 +8,6 @@ export default class technicalWriting extends Component {
     render() {
       return (
         <section id = "mainContent">
-            <div className = "mainContent">
                 {/*<div className="all-page-container">
                     <AllPagesPDFViewer pdf={FinalReport} />
       </div>*/}
@@ -20,7 +19,6 @@ export default class technicalWriting extends Component {
                   width={1000}
                 />
               </div>
-            </div>
         </section>
         
       )

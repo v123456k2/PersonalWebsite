@@ -8,7 +8,6 @@ export default class Resume extends Component {
   render() {
     return (
       <section id = "mainContent">
-          <div className = "mainContent">
             <div className = "resume">
               <embed
                 src={ResumeFinal}
@@ -17,7 +16,6 @@ export default class Resume extends Component {
                 width={1000}
               />
             </div>
-          </div>
       </section>
       
     )

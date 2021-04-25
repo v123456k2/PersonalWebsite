@@ -8,7 +8,6 @@ export default class writing1 extends Component {
     render() {
       return (
         <section id = "mainContent">
-            <div className = "mainContent">
               <div className = "resume">
                 <embed
                   src={ProjectSummary}
@@ -21,7 +20,6 @@ export default class writing1 extends Component {
                 <div className="all-page-container">
                     {<AllPagesPDFViewer pdf={'url(files/ProjectSummary.pdf)'} />}
                 </div>*/}
-            </div>
         </section>
         
       )
