@@ -25,18 +25,18 @@ ReactDOM.render(
     <Router>
       <Sidebar></Sidebar>
       <Switch>
-        <Route exact path="/" component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/goal" component={Goal} />
-        <Route path="/resume" component={Resume} />
-        <Route path="/education" component={Education} />
-        <Route path="/experiences" component={Experiences} />
-        <Route path="/project" component={Project} />
-        <Route path="/courses" component={Courses} />
-        <Route path="/technicalWriting" component={technicalWriting} />
-        <Route path="/writing1" component={Writing1} />
-        <Route path="/writing2" component={Writing2} />
-        <Route path="/presentation" component={Presentation} />
+        <Route exact path="/PersonalWebsite/" component={Home} />
+        <Route path="/PersonalWebsite/about" component={About} />
+        <Route path="/PersonalWebsite/goal" component={Goal} />
+        <Route path="/PersonalWebsite/resume" component={Resume} />
+        <Route path="/PersonalWebsite/education" component={Education} />
+        <Route path="/PersonalWebsite/experiences" component={Experiences} />
+        <Route path="/PersonalWebsite/project" component={Project} />
+        <Route path="/PersonalWebsite/courses" component={Courses} />
+        <Route path="/PersonalWebsite/technicalWriting" component={technicalWriting} />
+        <Route path="/PersonalWebsite/writing1" component={Writing1} />
+        <Route path="/PersonalWebsite/writing2" component={Writing2} />
+        <Route path="/PersonalWebsite/presentation" component={Presentation} />
         
       </Switch>
     </Router>

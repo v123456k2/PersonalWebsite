@@ -21,41 +21,41 @@ const Sidebar = () => {
               <span className="phone"><i className="fa fa-phone"></i> +1 724-328-2719</span>
               <nav className = "menuList">
                 <ul>
-                    <li className={splitLocation[1] === "" ? "active" : ""}>
-                        <Link to='/'>Home</Link>
+                    <li className={splitLocation[2] === "" ? "active" : ""}>
+                        <Link to='/PersonalWebsite/'>Home</Link>
                     </li>
-                    <li className={splitLocation[1] === "about" ? "active" : ""}>
-                        <Link to='/about'>About</Link>
+                    <li className={splitLocation[2] === "about" ? "active" : ""}>
+                        <Link to='/PersonalWebsite/about'>About</Link>
                     </li>
-                    <li className={splitLocation[1] === "goal" ? "active" : ""}>
-                        <Link to='/goal'>Career Goal</Link>
+                    <li className={splitLocation[2] === "goal" ? "active" : ""}>
+                        <Link to='/PersonalWebsite/goal'>Career Goal</Link>
                     </li>
-                    <li className={splitLocation[1] === "resume" ? "active" : ""}>
-                        <Link to="/resume">Resume</Link>
+                    <li className={splitLocation[2] === "resume" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/resume">Resume</Link>
                     </li>
-                    <li className={splitLocation[1] === "education" ? "active" : ""}>
-                        <Link to="/education">Education</Link>
+                    <li className={splitLocation[2] === "education" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/education">Education</Link>
                     </li>
-                    <li className={splitLocation[1] === "experiences" ? "active" : ""}>
-                        <Link to="/experiences">Experiences</Link>
+                    <li className={splitLocation[2] === "experiences" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/experiences">Experiences</Link>
                     </li>
-                    <li className={splitLocation[1] === "project" ? "active" : ""}>
-                        <Link to="/project">Project</Link>
+                    <li className={splitLocation[2] === "project" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/project">Project</Link>
                     </li>
-                    <li className={splitLocation[1] === "courses" ? "active" : ""}>
-                        <Link to="/courses">Course Works</Link>
+                    <li className={splitLocation[2] === "courses" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/courses">Course Works</Link>
                     </li>
-                    <li className={splitLocation[1] === "technicalWriting" ? "active" : ""}>
-                        <Link to="/technicalWriting">Technical Writing Sample</Link>
+                    <li className={splitLocation[2] === "technicalWriting" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/technicalWriting">Technical Writing Sample</Link>
                     </li>
-                    <li className={splitLocation[1] === "writing1" ? "active" : ""}>
-                        <Link to="/writing1">Writing Samples 1</Link>
+                    <li className={splitLocation[2] === "writing1" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/writing1">Writing Samples 1</Link>
                     </li>
-                    <li className={splitLocation[1] === "writing2" ? "active" : ""}>
-                        <Link to="/writing2">Writing Samples 2</Link>
+                    <li className={splitLocation[2] === "writing2" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/writing2">Writing Samples 2</Link>
                     </li>
-                    <li className={splitLocation[1] === "presentation" ? "active" : ""}>
-                        <Link to="/presentation">Presentation Sample</Link>
+                    <li className={splitLocation[2] === "presentation" ? "active" : ""}>
+                        <Link to="/PersonalWebsite/presentation">Presentation Sample</Link>
                     </li>
                     
                 </ul>
