@@ -30,7 +30,7 @@ const Sidebar = () => {
                         <Link to='/PersonalWebsite/about'>About</Link>
                     </li>
                     <li className={splitLocation[2] === "goal" ? "active" : ""}>
-                        <Link to='/PersonalWebsite/goal'>Career Goal</Link>
+                        <Link to='/PersonalWebsite/goal'>Career Goals</Link>
                     </li>
                     <li className={splitLocation[2] === "resume" ? "active" : ""}>
                         <Link to="/PersonalWebsite/resume">Resume</Link>
@@ -42,7 +42,7 @@ const Sidebar = () => {
                         <Link to="/PersonalWebsite/experiences">Experience</Link>
                     </li>
                     <li className={splitLocation[2] === "project" ? "active" : ""}>
-                        <Link to="/PersonalWebsite/project">Project</Link>
+                        <Link to="/PersonalWebsite/project">Projects</Link>
                     </li>
                     <li className={splitLocation[2] === "courses" ? "active" : ""}>
                         <Link to="/PersonalWebsite/courses">Coursework</Link>
