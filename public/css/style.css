@@ -137,6 +137,10 @@
 /*------------------- */
 
 #mainContent {
+
+}
+
+#mainContent .mainContent{
     width: calc(100% - 350px);
     height: 100%;
     float: right;
@@ -182,20 +186,14 @@
 /* Home               */
 /*------------------- */
 
-#mainContent .home{
-    margin-left: 10px;
-    width: 98%;
-    height: 100%;
-}
-
 #mainContent .homeImg{
+    width: calc(100% - 350px);
+    float: right;
     position: relative;
     overflow: visible;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    top: 72%;
-    left: 4%;
     height: 760px;
 }
 
