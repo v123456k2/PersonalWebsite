@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import homeImg from "../home.png";
+import homeImg from "../assets/images/home.png";
 import ResumeFinal from "../ResumeFinal.pdf";
 
 export default class Home extends Component {
