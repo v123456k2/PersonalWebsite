@@ -9,9 +9,7 @@ export default class Home extends Component {
             <div className = "mainContent">
                 <div className = "homeImg">
                   <img
-                    className="d-block w-100 "
-                    style={{ backgroundImage: `url(${homeImg})` }}
-                    alt=""
+                    style={{ backgroundImage: `url(/PersonalWebsite/images/home.png)` }}
                   />
                   <div> 
                     <h1 className = "text">Hi There! <br/> I'm Vincent</h1>

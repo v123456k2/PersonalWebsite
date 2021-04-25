@@ -5,6 +5,9 @@ export default class Experiences extends Component {
       return (
         <section id = "mainContent">
             <div className = "mainContent">
+            <img
+                    style={{ backgroundImage: `url(/PersonalWebsite/images/home.png)` }}
+                  />
               <h1>Trulight Project</h1>
                 <p>
                 Trulight Project is a non-profit start-up dedicated with a mission to protect, all. It is developing 
