@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PersonalWebsite/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/PersonalWebsite/static/js/main.10dae888.chunk.js",
-    "main.js.map": "/PersonalWebsite/static/js/main.10dae888.chunk.js.map",
+    "main.js": "/PersonalWebsite/static/js/main.8171a3a7.chunk.js",
+    "main.js.map": "/PersonalWebsite/static/js/main.8171a3a7.chunk.js.map",
     "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.80eebfa6.js",
     "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.80eebfa6.js.map",
     "static/js/2.4f49a384.chunk.js": "/PersonalWebsite/static/js/2.4f49a384.chunk.js",
@@ -17,12 +17,13 @@
     "static/media/ProjectSummary.ec270229.pdf": "/PersonalWebsite/static/media/ProjectSummary.ec270229.pdf",
     "static/media/ProposalPresentation.3d59f89f.pdf": "/PersonalWebsite/static/media/ProposalPresentation.3d59f89f.pdf",
     "static/media/ResumeFinal.e33d898b.pdf": "/PersonalWebsite/static/media/ResumeFinal.e33d898b.pdf",
-    "static/media/home2.454cd859.png": "/PersonalWebsite/static/media/home2.454cd859.png"
+    "static/media/about.0c02de72.jpg": "/PersonalWebsite/static/media/about.0c02de72.jpg",
+    "static/media/home.454cd859.png": "/PersonalWebsite/static/media/home.454cd859.png"
   },
   "entrypoints": [
     "static/js/runtime-main.80eebfa6.js",
     "static/js/2.4f49a384.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.10dae888.chunk.js"
+    "static/js/main.8171a3a7.chunk.js"
   ]
 }
